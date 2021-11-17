@@ -184,3 +184,4 @@ ${color0}Super+P${alignr}${color2}Take a Screenshot${color}
 ${color0}Super+R${alignr}${color2}Run Prompt${color}
 ${color0}Super+Q${alignr}${color2}Quit Window${color}
 ${color0}Super+[1-9]${alignr}${color2}Switch Workspaces${color}
+]]
